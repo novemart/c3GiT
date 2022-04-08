@@ -2,3 +2,5 @@
 flaskSQLalchemy/venv
 flaskSQLalchemy/__pycache__
 flaskSQLalchemy/.idea
+pureFlaskApp/venv
+pureFlaskApp/.idea
